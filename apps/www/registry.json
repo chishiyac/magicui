@@ -1231,7 +1231,8 @@
       "title": "Highlighter",
       "description": "A text highlighter that mimics the effect of a human-drawn marker stroke.",
       "dependencies": [
-        "rough-notation"
+        "rough-notation",
+        "motion"
       ],
       "files": [
         {
@@ -3543,7 +3544,8 @@
       "title": "Highlighter Demo",
       "description": "Example showing the demo of a Highlighter",
       "dependencies": [
-        "rough-notation"
+        "rough-notation",
+        "motion"
       ],
       "registryDependencies": [
         "@magicui/highlighter"

@@ -5,7 +5,8 @@
   "title": "Highlighter Demo",
   "description": "Example showing the demo of a Highlighter",
   "dependencies": [
-    "rough-notation"
+    "rough-notation",
+    "motion"
   ],
   "registryDependencies": [
     "@magicui/highlighter"
